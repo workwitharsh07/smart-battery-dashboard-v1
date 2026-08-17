@@ -32,7 +32,9 @@ A simple ESP32 battery monitoring system that shows real-time battery voltage, p
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](./circuit.webp)
+<p align="center">
+  <img src="circuit.webp" alt="ESP32 OLED Drawing Pad Wiring Diagram" width="700">
+</p>
 
 ### Quick Wiring Guide
 
